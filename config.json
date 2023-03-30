@@ -1,0 +1,313 @@
+{
+    "description": "btcv yucheng",
+    "labels": {
+        "0": "background",
+        "1": "WM", 
+        "2": "GM"
+    },
+    "licence": "yt",
+    "modality": {
+        "0": "ct"
+    },
+    "name": "btcv",
+    "numTest": 20,
+    "numTraining": 80,
+    "reference": "Aix marseille University",
+    "release": "1.0 06/08/2015",
+    "tensorImageSize": "3D",
+    "test": [
+        {
+            "image": "sub-31_T2star.nii.gz", 
+            "label": "sub-31_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image":"sub-32_T2star.nii.gz", 
+            "label": "sub-32_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image":"sub-33_T2star.nii.gz", 
+            "label": "sub-33_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image":"sub-34_T2star.nii.gz", 
+            "label": "sub-34_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image":"sub-35_T2star.nii.gz", 
+            "label": "sub-35_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image":"sub-48_T2star.nii.gz", 
+            "label": "sub-48_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image":"sub-49_T2star.nii.gz", 
+            "label": "sub-49_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image":"sub-76_T2star.nii.gz", 
+            "label": "sub-76_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image":"sub-77_T2star.nii.gz", 
+            "label": "sub-77_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image":"sub-78_T2star.nii.gz", 
+            "label": "sub-78_T2star_WM-manual.nii.gz"
+        }
+    ],
+    "training": [
+        {
+            "image": "sub-01_T2star.nii.gz",
+            "label": "sub-01_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-02_T2star.nii.gz",
+            "label": "sub-02_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-03_T2star.nii.gz",
+            "label": "sub-03_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-04_T2star.nii.gz",
+            "label": "sub-04_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-05_T2star.nii.gz",
+            "label": "sub-05_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-06_T2star.nii.gz",
+            "label": "sub-06_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-07_T2star.nii.gz",
+            "label": "sub-07_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-09_T2star.nii.gz",
+            "label": "sub-09_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-10_T2star.nii.gz",
+            "label": "sub-10_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-11_T2star.nii.gz",
+            "label": "sub-11_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-12_T2star.nii.gz",
+            "label": "sub-12_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-13_T2star.nii.gz",
+            "label": "sub-13_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-14_T2star.nii.gz",
+            "label": "sub-14_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-15_T2star.nii.gz",
+            "label": "sub-15_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-16_T2star.nii.gz",
+            "label": "sub-16_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-17_T2star.nii.gz",
+            "label": "sub-17_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-18_T2star.nii.gz",
+            "label": "sub-18_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-19_T2star.nii.gz",
+            "label": "sub-19_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-20_T2star.nii.gz",
+            "label": "sub-20_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-21_T2star.nii.gz",
+            "label": "sub-21_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-22_T2star.nii.gz",
+            "label": "sub-22_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-23_T2star.nii.gz",
+            "label": "sub-23_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-24_T2star.nii.gz",
+            "label": "sub-24_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-25_T2star.nii.gz",
+            "label": "sub-25_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-36_T2star.nii.gz",
+            "label": "sub-36_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-37_T2star.nii.gz",
+            "label": "sub-37_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-38_T2star.nii.gz",
+            "label": "sub-38_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-39_T2star.nii.gz",
+            "label": "sub-39_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-40_T2star.nii.gz",
+            "label": "sub-40_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-41_T2star.nii.gz",
+            "label": "sub-41_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-42_T2star.nii.gz",
+            "label": "sub-42_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-43_T2star.nii.gz",
+            "label": "sub-43_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-44_T2star.nii.gz",
+            "label": "sub-44_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-51_T2star.nii.gz",
+            "label": "sub-51_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-52_T2star.nii.gz",
+            "label": "sub-52_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-53_T2star.nii.gz",
+            "label": "sub-53_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-54_T2star.nii.gz",
+            "label": "sub-54_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-55_T2star.nii.gz",
+            "label": "sub-55_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-56_T2star.nii.gz",
+            "label": "sub-56_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-57_T2star.nii.gz",
+            "label": "sub-57_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-58_T2star.nii.gz",
+            "label": "sub-58_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-59_T2star.nii.gz",
+            "label": "sub-59_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-60_T2star.nii.gz",
+            "label": "sub-60_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-62_T2star.nii.gz",
+            "label": "sub-62_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-63_T2star.nii.gz",
+            "label": "sub-63_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-64_T2star.nii.gz",
+            "label": "sub-64_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-65_T2star.nii.gz",
+            "label": "sub-65_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-66_T2star.nii.gz",
+            "label": "sub-66_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-67_T2star.nii.gz",
+            "label": "sub-67_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-69_T2star.nii.gz",
+            "label": "sub-69_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-70_T2star.nii.gz",
+            "label": "sub-70_T2star_WM-manual.nii.gz"
+        }
+
+    ],
+    "validation": [
+        {
+            "image": "sub-26_T2star.nii.gz",
+            "label": "sub-26_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-27_T2star.nii.gz",
+            "label": "sub-27_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-28_T2star.nii.gz",
+            "label": "sub-28_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-29_T2star.nii.gz",
+            "label": "sub-29_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-30_T2star.nii.gz",
+            "label": "sub-30_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-45_T2star.nii.gz",
+            "label": "sub-45_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-47_T2star.nii.gz",
+            "label": "sub-47_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-71_T2star.nii.gz",
+            "label": "sub-71_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-73_T2star.nii.gz",
+            "label": "sub-73_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-74_T2star.nii.gz",
+            "label": "sub-74_T2star_WM-manual.nii.gz"
+        },
+        {
+            "image": "sub-75_T2star.nii.gz",
+            "label": "sub-75_T2star_WM-manual.nii.gz"
+        }     
+    ]
+    }
