@@ -1,1 +1,1 @@
-# unet_TR_3D_WM_GM_Segmentation_Spinal_cord
+# unet_TR_3D_WM_GM_segmentation_spinal_cord
